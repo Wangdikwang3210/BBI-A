@@ -1,0 +1,1 @@
+from class_dog import Dog
